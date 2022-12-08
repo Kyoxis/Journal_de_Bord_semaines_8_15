@@ -13,4 +13,4 @@ Suite à la conférence, aimerais-tu travailler dans le monde du jeu vidéo? Si 
 
 Mon attirance envers le domaine n'as pas changer.Toutefois, j'ai appréciés les détails.
 
-Avoir un avis d'un vétérant est pertinent pour un dévelopeur à en devenir.
+Avoir un avis d'un vétérant est pertinent pour un développeur à en devenir.
