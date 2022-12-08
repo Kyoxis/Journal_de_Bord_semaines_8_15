@@ -3,7 +3,7 @@
 Durée: 8 à 10 minutes
 
 ### Résumer votre projet en une phrase
-La sortie du plus grand MMOFPS du monde.   
+La sortie du plus grand MMOFPS/MMORPG du monde.   
 
 ### Description du projet 
 C'est un jeu fps de pirate ou vous pouvez visiter des millions de biômes et tué des joueurs énnemis. 
