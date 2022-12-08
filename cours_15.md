@@ -15,7 +15,7 @@ Je rêve grand; le type d'entreprise dans lesquels j'aimerais travailler sont de
 je parle évidemment des entreprise comme Ubisoft, Bandai Namco, Capcom et Warpfrog.
 Warfrog qui, malgré n'avoir sortie qu'un jeu, à fait un début incoyable comme compagnie de jeu en réalité virtuelle.
 
-je m'intéresse au domaine de la réalité virtuelle et à celui du jeu vidéo.
+je m'intéresse au domaine de la réalité virtuelle et à celui du jeux vidéo.
 
 J'ai préféré la première conférence de la session. bien que je ne me souvient plus du nom de celle-ci, le fait d'optenir l'avis d'élèves et de professeurs universitaires fait grandement partie de pourquoi je préfère cette conférence en particulier.
 
