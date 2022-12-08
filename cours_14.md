@@ -6,7 +6,7 @@ Durée: 8 à 10 minutes
 La sortie du plus grand MMOFPS/MMORPG du monde.   
 
 ### Description du projet 
-C'est un jeu fps de pirate ou vous pouvez visiter des millions de biômes et tué des joueurs énnemis. 
+C'est un jeu fps et rpg de pirate à monde ouvert ou vous pouvez visiter des millions de biômes et tuer des joueurs énnemis. 
 
 ### Schéma du projet ou scénarimage
 En gros, tu crée ton personnage en réalité virtuelle qui commence sur la Terre et après tu fait ce que tu veux car toutes les quêtes sont soit secondaires ou événementielles. 
@@ -17,7 +17,7 @@ Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moo
 ![image](https://user-images.githubusercontent.com/112128314/205144191-09fcc266-5224-474a-b32d-baff62cdf699.png)
 
 ### Technologies
-Tapis et casque de réalitée virtuelle. 
+Un tapis et un casque de réalitée virtuelle. 
 
 ### Tâches
 Les tâches sont les suivantes: compagnie,entreprises concurrentes,brainstorm,cartes heuristique,projets similaires,principe du projet,aspect visuel et sonores du projet,taches principales,éléments novateurs et maquette de la présentation.
