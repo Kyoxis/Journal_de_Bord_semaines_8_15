@@ -13,4 +13,4 @@ Te verrais-tu travailler dans une des deux entreprises? Si oui, laquelle et pour
 
 Je ne me vois absolument pas dans cette branche du multimédia; je n'y vois aucun intérêt.
 
-Je veux impérativement être dans le domaine de la conception de jeux vidéos.
+Je veux impérativement être dans le domaine de la conception de jeux vidéo ou de celle de la réalité virtuelle.
