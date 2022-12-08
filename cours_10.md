@@ -6,7 +6,7 @@ Laquelle des conférences as-tu préféré et pourquoi? (2 à 3 lignes)
 
 PixMob fut ma conférence préféré.
 
-j'ai eut énormément de plaisir à me déguisé, à l'aide des coliers à lumière syncronisé, en sapin de noel. 
+j'ai eut énormément de plaisir à me déguisé, à l'aide des coliers à lumière syncronisé, en sapin de noël. 
 
 ### Travail
 Te verrais-tu travailler dans une des deux entreprises? Si oui, laquelle et pour quelle raison? Si non, pourquoi? (2 à 3 lignes)
